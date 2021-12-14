@@ -1,3 +1,7 @@
+# Portfolio
+Demoapplication to showcase use of routes. Tutorial can be found here: https://blog.pusher.com/getting-started-with-react-router-v4. 
+Keep in mind that package `react-router-dom` is now at v6. The `<Switch>` element is now deprecated and replaced with '<Routes>'. See also: https://stackoverflow.com/questions/63124161/attempted-import-error-switch-is-not-exported-from-react-router-dom
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs all the packages described in the `pacakge.json` file.
 
 ### `npm start`
 
